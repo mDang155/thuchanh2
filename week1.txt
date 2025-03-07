@@ -1,2 +1,2 @@
 đây là file week1.txt
-thuộc brand : week1
+thuộc brand : week1 va main
